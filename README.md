@@ -5,7 +5,7 @@ Call Office est une solution destiné aux organismes qui gèrent des activités 
 L'application comprend différents modules necéssaires à son fonctionnement dont Services, Fenêtres, Utilisateurs et leurs affectations aux service, Méssages vocaux et Méssages préconfigurés, elle est paramétrable à travers des interfaces simplifiés et peut être utilisé par différents types d'organismes telque une Banque, un Poste ou une Mairie.
 
 <p align="center">
-  <img src="https://github.com/LPGTE/TextRepeaterSpeech/blob/master/project-5.png" width="70%" title="hover text">
+  <img src="https://github.com/LPGTE/TextRepeaterSpeech/blob/master/CallOffice2.png" width="70%" title="hover text">
 </p>
 
 La solution est initialisé avec des voix par défaut pour les méssages et elle est équipé d'un utilitaire pour l'enregistrement personalisé des méssages dans le cas où l'utilisateur souhaite utiliser des méssages vocaux personalisés.
