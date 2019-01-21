@@ -11,6 +11,10 @@ The application includes various modules necessary for its operation including S
   <img src="https://github.com/LPGTE/CallOffice/blob/master/CallOffice_img1.png" width="70%" title="hover text">
 </p>
 
+<p align="Center">
+CallOffice Office Blue Skin
+</p>
+
 <p align="Left">
 The solution is initialized with default voices for the mesages and it is equipped with a utility for the personalized recording of the messages in the case where the user wishes to use personalized voice messages.
 
