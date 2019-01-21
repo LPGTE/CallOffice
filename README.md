@@ -7,12 +7,16 @@ The application includes various modules necessary for its operation including S
   <img src="https://github.com/LPGTE/CallOffice/blob/master/CallOffice_img2.png" width="70%" title="hover text"> 
 </p>
 
+<p align="Center">
+CallOffice Office Blue Skin
+</p>
+
 <p align="center">
   <img src="https://github.com/LPGTE/CallOffice/blob/master/CallOffice_img1.png" width="70%" title="hover text">
 </p>
 
 <p align="Center">
-CallOffice Office Blue Skin
+CallOffice Blue Skin
 </p>
 
 <p align="Left">
