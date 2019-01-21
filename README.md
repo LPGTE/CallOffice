@@ -8,7 +8,7 @@ The application includes various modules necessary for its operation including S
 </p>
 
 <p align="Center">
-CallOffice Office Blue Skin
+  <b>CallOffice Office Blue Skin</b>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ CallOffice Office Blue Skin
 </p>
 
 <p align="Center">
-CallOffice Blue Skin
+  <b>CallOffice Blue Skin</b>
 </p>
 
 <p align="Left">
